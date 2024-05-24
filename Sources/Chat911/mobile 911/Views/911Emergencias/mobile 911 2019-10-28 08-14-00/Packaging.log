@@ -1,0 +1,643 @@
+2019-10-28 11:13:31 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fc13bc767e0; archive(resolved)='<IDEArchive: 0x7fc13c3dfe10>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fc13baf4aa0>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc1343c6740; teamID='QARNUHFYLX', teamName='SOFLEX SA', teamType='Company', username='cezaratevelezano@gmail.com', isFreeProvisioningTeam='0'>'>
+	Chain (12, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fc13bc767e0; archive = '<IDEArchive: 0x7fc13c3dfe10>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fc13baf4aa0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc1343c6740; teamID='QARNUHFYLX', teamName='SOFLEX SA', teamType='Company', username='cezaratevelezano@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fc1390a1800; archive = '<IDEArchive: 0x7fc13c3dfe10>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fc13baf4aa0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc1343c6740; teamID='QARNUHFYLX', teamName='SOFLEX SA', teamType='Company', username='cezaratevelezano@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc13cbc5480; archive = '<IDEArchive: 0x7fc13c3dfe10>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fc13baf4aa0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc1343c6740; teamID='QARNUHFYLX', teamName='SOFLEX SA', teamType='Company', username='cezaratevelezano@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc13ce13fe0; archive = '<IDEArchive: 0x7fc13c3dfe10>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fc13baf4aa0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc1343c6740; teamID='QARNUHFYLX', teamName='SOFLEX SA', teamType='Company', username='cezaratevelezano@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc13c852850; archive = '<IDEArchive: 0x7fc13c3dfe10>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fc13baf4aa0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc1343c6740; teamID='QARNUHFYLX', teamName='SOFLEX SA', teamType='Company', username='cezaratevelezano@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc13cf0b480; archive = '<IDEArchive: 0x7fc13c3dfe10>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fc13baf4aa0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc1343c6740; teamID='QARNUHFYLX', teamName='SOFLEX SA', teamType='Company', username='cezaratevelezano@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc13cfcdfc0; archive = '<IDEArchive: 0x7fc13c3dfe10>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fc13baf4aa0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc1343c6740; teamID='QARNUHFYLX', teamName='SOFLEX SA', teamType='Company', username='cezaratevelezano@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc13da65510; archive = '<IDEArchive: 0x7fc13c3dfe10>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fc13baf4aa0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc1343c6740; teamID='QARNUHFYLX', teamName='SOFLEX SA', teamType='Company', username='cezaratevelezano@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc13cf0a050; archive = '<IDEArchive: 0x7fc13c3dfe10>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fc13baf4aa0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc1343c6740; teamID='QARNUHFYLX', teamName='SOFLEX SA', teamType='Company', username='cezaratevelezano@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc13cc17d10; archive = '<IDEArchive: 0x7fc13c3dfe10>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fc13baf4aa0>', team='(null)'>
+	<IDEDistributionContext: 0x7fc135796e10; archive = '<IDEArchive: 0x7fc13c3dfe10>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fc13baf4aa0>', team='(null)'>
+	<IDEDistributionContext: 0x7fc13b5dca40; archive = '<IDEArchive: 0x7fc13c3dfe10>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fc13bc767e0>
+2019-10-28 11:13:31 +0000  Processing step: IDEDistributionCreateDestRootStep
+2019-10-28 11:13:31 +0000  Processing step: IDEDistributionCopyItemStep
+2019-10-28 11:13:31 +0000  Running /usr/bin/ditto '-V' '/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app'
+2019-10-28 11:13:31 +0000  >>> Copying /Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app 
+2019-10-28 11:13:31 +0000  copying file ./_CodeSignature/CodeResources ... 
+2019-10-28 11:13:31 +0000  16693 bytes for ./_CodeSignature/CodeResources
+2019-10-28 11:13:31 +0000  copying file ./es-419.lproj/LaunchScreen.strings ... 
+2019-10-28 11:13:31 +0000  1 bytes for ./es-419.lproj/LaunchScreen.strings
+2019-10-28 11:13:31 +0000  copying file ./es-419.lproj/Main.strings ... 
+2019-10-28 11:13:31 +0000  1833 bytes for ./es-419.lproj/Main.strings
+2019-10-28 11:13:31 +0000  copying file ./AppIcon60x60@2x.png ... 
+2019-10-28 11:13:31 +0000  5255 bytes for ./AppIcon60x60@2x.png
+2019-10-28 11:13:31 +0000  copying file ./Base.lproj/Main.storyboardc/datos.nib ... 
+2019-10-28 11:13:31 +0000  1030 bytes for ./Base.lproj/Main.storyboardc/datos.nib
+copying file ./Base.lproj/Main.storyboardc/Rs7-lt-orJ-view-M8L-ff-6Z3.nib ... 
+2019-10-28 11:13:31 +0000  4067 bytes for ./Base.lproj/Main.storyboardc/Rs7-lt-orJ-view-M8L-ff-6Z3.nib
+copying file ./Base.lproj/Main.storyboardc/KGR-zb-h9i-view-WfM-hV-Ius.nib ... 
+2019-10-28 11:13:31 +0000  7085 bytes for ./Base.lproj/Main.storyboardc/KGR-zb-h9i-view-WfM-hV-Ius.nib
+2019-10-28 11:13:31 +0000  copying file ./Base.lproj/Main.storyboardc/ut7-Rn-7cq-view-KDT-xn-dM1.nib ... 
+2019-10-28 11:13:31 +0000  3083 bytes for ./Base.lproj/Main.storyboardc/ut7-Rn-7cq-view-KDT-xn-dM1.nib
+copying file ./Base.lproj/Main.storyboardc/QhX-KN-b6V-view-pKq-8h-HT1.nib ... 
+2019-10-28 11:13:31 +0000  4597 bytes for ./Base.lproj/Main.storyboardc/QhX-KN-b6V-view-pKq-8h-HT1.nib
+2019-10-28 11:13:31 +0000  copying file ./Base.lproj/Main.storyboardc/DKQ-Kl-Env-view-2g8-EW-I4X.nib ... 
+2019-10-28 11:13:31 +0000  25689 bytes for ./Base.lproj/Main.storyboardc/DKQ-Kl-Env-view-2g8-EW-I4X.nib
+2019-10-28 11:13:31 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-Rs7-lt-orJ.nib ... 
+2019-10-28 11:13:31 +0000  1697 bytes for ./Base.lproj/Main.storyboardc/UIViewController-Rs7-lt-orJ.nib
+2019-10-28 11:13:31 +0000  copying file ./Base.lproj/Main.storyboardc/inicio.nib ... 
+2019-10-28 11:13:31 +0000  1289 bytes for ./Base.lproj/Main.storyboardc/inicio.nib
+2019-10-28 11:13:31 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-QhX-KN-b6V.nib ... 
+2019-10-28 11:13:31 +0000  1775 bytes for ./Base.lproj/Main.storyboardc/UIViewController-QhX-KN-b6V.nib
+2019-10-28 11:13:31 +0000  copying file ./Base.lproj/Main.storyboardc/mapa.nib ... 
+2019-10-28 11:13:31 +0000  2016 bytes for ./Base.lproj/Main.storyboardc/mapa.nib
+2019-10-28 11:13:31 +0000  copying file ./Base.lproj/Main.storyboardc/about.nib ... 
+2019-10-28 11:13:31 +0000  1525 bytes for ./Base.lproj/Main.storyboardc/about.nib
+2019-10-28 11:13:31 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2019-10-28 11:13:31 +0000  7084 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2019-10-28 11:13:31 +0000  copying file ./Base.lproj/Main.storyboardc/chq-qP-qUK-view-BXv-KR-1rK.nib ... 
+2019-10-28 11:13:31 +0000  5475 bytes for ./Base.lproj/Main.storyboardc/chq-qP-qUK-view-BXv-KR-1rK.nib
+2019-10-28 11:13:31 +0000  copying file ./Base.lproj/Main.storyboardc/UINavigationController-8gF-0l-BWN.nib ... 
+2019-10-28 11:13:31 +0000  2666 bytes for ./Base.lproj/Main.storyboardc/UINavigationController-8gF-0l-BWN.nib
+2019-10-28 11:13:31 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2019-10-28 11:13:31 +0000  555 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2019-10-28 11:13:31 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-DKQ-Kl-Env.nib ... 
+2019-10-28 11:13:31 +0000  1079 bytes for ./Base.lproj/Main.storyboardc/UIViewController-DKQ-Kl-Env.nib
+2019-10-28 11:13:31 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2019-10-28 11:13:31 +0000  1136 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2019-10-28 11:13:31 +0000  832 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2019-10-28 11:13:31 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2019-10-28 11:13:31 +0000  copying file ./mobile 911 ... 
+2019-10-28 11:13:31 +0000  1595392 bytes for ./mobile 911
+2019-10-28 11:13:31 +0000  copying file ./Assets.car ... 
+2019-10-28 11:13:31 +0000  284072 bytes for ./Assets.car
+2019-10-28 11:13:31 +0000  copying file ./Frameworks/libswiftMapKit.dylib ... 
+2019-10-28 11:13:31 +0000  470432 bytes for ./Frameworks/libswiftMapKit.dylib
+2019-10-28 11:13:31 +0000  copying file ./Frameworks/libswiftCoreImage.dylib ... 
+2019-10-28 11:13:31 +0000  466576 bytes for ./Frameworks/libswiftCoreImage.dylib
+2019-10-28 11:13:31 +0000  copying file ./Frameworks/libswiftObjectiveC.dylib ... 
+2019-10-28 11:13:31 +0000  679680 bytes for ./Frameworks/libswiftObjectiveC.dylib
+copying file ./Frameworks/libswiftCore.dylib ... 
+2019-10-28 11:13:31 +0000  95497584 bytes for ./Frameworks/libswiftCore.dylib
+copying file ./Frameworks/libswiftCoreGraphics.dylib ... 
+2019-10-28 11:13:31 +0000  2041040 bytes for ./Frameworks/libswiftCoreGraphics.dylib
+copying file ./Frameworks/libswiftUIKit.dylib ... 
+2019-10-28 11:13:31 +0000  1608800 bytes for ./Frameworks/libswiftUIKit.dylib
+copying file ./Frameworks/libswiftMetal.dylib ... 
+724416 bytes for ./Frameworks/libswiftMetal.dylib
+copying file ./Frameworks/libswiftDispatch.dylib ... 
+2019-10-28 11:13:31 +0000  4056912 bytes for ./Frameworks/libswiftDispatch.dylib
+copying file ./Frameworks/libswiftos.dylib ... 
+2019-10-28 11:13:31 +0000  857184 bytes for ./Frameworks/libswiftos.dylib
+copying file ./Frameworks/libswiftCoreFoundation.dylib ... 
+2019-10-28 11:13:31 +0000  450384 bytes for ./Frameworks/libswiftCoreFoundation.dylib
+2019-10-28 11:13:31 +0000  copying file ./Frameworks/Eureka.framework/_CodeSignature/CodeResources ... 
+2019-10-28 11:13:31 +0000  3768 bytes for ./Frameworks/Eureka.framework/_CodeSignature/CodeResources
+2019-10-28 11:13:31 +0000  copying file ./Frameworks/Eureka.framework/Eureka ... 
+2019-10-28 11:13:31 +0000  9622976 bytes for ./Frameworks/Eureka.framework/Eureka
+2019-10-28 11:13:31 +0000  copying file ./Frameworks/Eureka.framework/Eureka.bundle/forward-chevron@3x.png ... 
+1710 bytes for ./Frameworks/Eureka.framework/Eureka.bundle/forward-chevron@3x.png
+copying file ./Frameworks/Eureka.framework/Eureka.bundle/forward-chevron@2x.png ... 
+1543 bytes for ./Frameworks/Eureka.framework/Eureka.bundle/forward-chevron@2x.png
+copying file ./Frameworks/Eureka.framework/Eureka.bundle/back-chevron@1x.png ... 
+1376 bytes for ./Frameworks/Eureka.framework/Eureka.bundle/back-chevron@1x.png
+copying file ./Frameworks/Eureka.framework/Eureka.bundle/forward-chevron@1x.png ... 
+1400 bytes for ./Frameworks/Eureka.framework/Eureka.bundle/forward-chevron@1x.png
+copying file ./Frameworks/Eureka.framework/Eureka.bundle/back-chevron@2x.png ... 
+1534 bytes for ./Frameworks/Eureka.framework/Eureka.bundle/back-chevron@2x.png
+copying file ./Frameworks/Eureka.framework/Eureka.bundle/back-chevron@3x.png ... 
+2019-10-28 11:13:31 +0000  1699 bytes for ./Frameworks/Eureka.framework/Eureka.bundle/back-chevron@3x.png
+2019-10-28 11:13:31 +0000  copying file ./Frameworks/Eureka.framework/Info.plist ... 
+2019-10-28 11:13:31 +0000  736 bytes for ./Frameworks/Eureka.framework/Info.plist
+2019-10-28 11:13:31 +0000  copying file ./Frameworks/libswiftDarwin.dylib ... 
+2019-10-28 11:13:31 +0000  1091440 bytes for ./Frameworks/libswiftDarwin.dylib
+copying file ./Frameworks/libswiftQuartzCore.dylib ... 
+2019-10-28 11:13:31 +0000  486352 bytes for ./Frameworks/libswiftQuartzCore.dylib
+2019-10-28 11:13:31 +0000  copying file ./Frameworks/Toast_Swift.framework/_CodeSignature/CodeResources ... 
+2019-10-28 11:13:31 +0000  1798 bytes for ./Frameworks/Toast_Swift.framework/_CodeSignature/CodeResources
+2019-10-28 11:13:31 +0000  copying file ./Frameworks/Toast_Swift.framework/Toast_Swift ... 
+2019-10-28 11:13:31 +0000  504592 bytes for ./Frameworks/Toast_Swift.framework/Toast_Swift
+copying file ./Frameworks/Toast_Swift.framework/Info.plist ... 
+2019-10-28 11:13:31 +0000  746 bytes for ./Frameworks/Toast_Swift.framework/Info.plist
+2019-10-28 11:13:31 +0000  copying file ./Frameworks/SnapKit.framework/_CodeSignature/CodeResources ... 
+2019-10-28 11:13:31 +0000  1798 bytes for ./Frameworks/SnapKit.framework/_CodeSignature/CodeResources
+2019-10-28 11:13:31 +0000  copying file ./Frameworks/SnapKit.framework/SnapKit ... 
+2019-10-28 11:13:31 +0000  1280400 bytes for ./Frameworks/SnapKit.framework/SnapKit
+copying file ./Frameworks/SnapKit.framework/Info.plist ... 
+2019-10-28 11:13:31 +0000  738 bytes for ./Frameworks/SnapKit.framework/Info.plist
+2019-10-28 11:13:31 +0000  copying file ./Frameworks/libswiftFoundation.dylib ... 
+2019-10-28 11:13:31 +0000  43094320 bytes for ./Frameworks/libswiftFoundation.dylib
+copying file ./Frameworks/libswiftCoreLocation.dylib ... 
+2019-10-28 11:13:31 +0000  730224 bytes for ./Frameworks/libswiftCoreLocation.dylib
+copying file ./embedded.mobileprovision ... 
+17385 bytes for ./embedded.mobileprovision
+2019-10-28 11:13:31 +0000  copying file ./Info.plist ... 
+2019-10-28 11:13:31 +0000  1798 bytes for ./Info.plist
+copying file ./PkgInfo ... 
+2019-10-28 11:13:31 +0000  8 bytes for ./PkgInfo
+2019-10-28 11:13:31 +0000  /usr/bin/ditto exited with 0
+2019-10-28 11:13:31 +0000  Processing step: IDEDistributionEmbedProfileStep
+2019-10-28 11:13:31 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc13b871280 'org.cocoapods.Eureka' '<DVTFilePath:0x7fc13cb47e30:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/Eureka.framework'>'>
+2019-10-28 11:13:31 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc13b9c1390 'org.cocoapods.SnapKit' '<DVTFilePath:0x7fc13ca4ef30:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/SnapKit.framework'>'>
+2019-10-28 11:13:31 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc1357d33c0 'org.cocoapods.Toast-Swift' '<DVTFilePath:0x7fc13cc694b0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/Toast_Swift.framework'>'>
+2019-10-28 11:13:31 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc13bf11840 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fc13caa7fe0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftCore.dylib'>'>
+2019-10-28 11:13:31 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc131e8a7a0 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fc13bc63400:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftCoreFoundation.dylib'>'>
+2019-10-28 11:13:31 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc13da18b50 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fc1320cc3f0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftCoreGraphics.dylib'>'>
+2019-10-28 11:13:31 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc1351bcb70 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7fc13ca60990:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftCoreImage.dylib'>'>
+2019-10-28 11:13:31 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc13daa47c0 'com.apple.dt.runtime.swiftCoreLocation' '<DVTFilePath:0x7fc13cc68720:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftCoreLocation.dylib'>'>
+2019-10-28 11:13:31 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc1392de7f0 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fc13ccb50b0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftDarwin.dylib'>'>
+2019-10-28 11:13:31 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc13ccc6f20 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fc13900aab0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftDispatch.dylib'>'>
+2019-10-28 11:13:31 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc13bc76a20 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fc13c5c97e0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftFoundation.dylib'>'>
+2019-10-28 11:13:31 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc13c11fe00 'com.apple.dt.runtime.swiftMapKit' '<DVTFilePath:0x7fc1343be6d0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftMapKit.dylib'>'>
+2019-10-28 11:13:31 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc13cadc740 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7fc13bc38580:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftMetal.dylib'>'>
+2019-10-28 11:13:31 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc13cc8f940 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fc13c4e9e30:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftObjectiveC.dylib'>'>
+2019-10-28 11:13:31 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc13caf50f0 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7fc13bea9430:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftQuartzCore.dylib'>'>
+2019-10-28 11:13:31 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc13cbe3440 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7fc1351ed460:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftUIKit.dylib'>'>
+2019-10-28 11:13:31 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc13cc9ceb0 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7fc13bc42830:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftos.dylib'>'>
+2019-10-28 11:13:31 +0000  Processing step: IDEDistributionItemRemovalStep
+2019-10-28 11:13:31 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2019-10-28 11:13:31 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2019-10-28 11:13:31 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2019-10-28 11:13:31 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2019-10-28 11:13:31 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2019-10-28 11:13:31 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2019-10-28 11:13:31 +0000  Running /usr/bin/ditto '-V' '/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/BCSymbolMaps/003A19E6-5F35-398B-8BE0-CC39A07FECD3.bcsymbolmap' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/BCSymbolMaps/003A19E6-5F35-398B-8BE0-CC39A07FECD3.bcsymbolmap'
+2019-10-28 11:13:31 +0000  >>> Copying /Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/BCSymbolMaps/003A19E6-5F35-398B-8BE0-CC39A07FECD3.bcsymbolmap 
+2019-10-28 11:13:31 +0000  copying file ./003A19E6-5F35-398B-8BE0-CC39A07FECD3.bcsymbolmap ... 
+2019-10-28 11:13:31 +0000  575220 bytes for ./003A19E6-5F35-398B-8BE0-CC39A07FECD3.bcsymbolmap
+2019-10-28 11:13:31 +0000  /usr/bin/ditto exited with 0
+2019-10-28 11:13:31 +0000  Running /usr/bin/ditto '-V' '/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/BCSymbolMaps/D2FC7837-D021-39A7-B0FE-7BAC5FD7D46B.bcsymbolmap' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/BCSymbolMaps/D2FC7837-D021-39A7-B0FE-7BAC5FD7D46B.bcsymbolmap'
+2019-10-28 11:13:31 +0000  >>> Copying /Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/BCSymbolMaps/D2FC7837-D021-39A7-B0FE-7BAC5FD7D46B.bcsymbolmap 
+2019-10-28 11:13:31 +0000  copying file ./D2FC7837-D021-39A7-B0FE-7BAC5FD7D46B.bcsymbolmap ... 
+2019-10-28 11:13:31 +0000  77043 bytes for ./D2FC7837-D021-39A7-B0FE-7BAC5FD7D46B.bcsymbolmap
+2019-10-28 11:13:31 +0000  /usr/bin/ditto exited with 0
+2019-10-28 11:13:31 +0000  Running /usr/bin/ditto '-V' '/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/BCSymbolMaps/5D3D8B37-D275-31C3-969E-2C42FBF69FB1.bcsymbolmap' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/BCSymbolMaps/5D3D8B37-D275-31C3-969E-2C42FBF69FB1.bcsymbolmap'
+2019-10-28 11:13:31 +0000  >>> Copying /Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/BCSymbolMaps/5D3D8B37-D275-31C3-969E-2C42FBF69FB1.bcsymbolmap 
+2019-10-28 11:13:31 +0000  copying file ./5D3D8B37-D275-31C3-969E-2C42FBF69FB1.bcsymbolmap ... 
+2019-10-28 11:13:31 +0000  36172 bytes for ./5D3D8B37-D275-31C3-969E-2C42FBF69FB1.bcsymbolmap
+2019-10-28 11:13:31 +0000  /usr/bin/ditto exited with 0
+2019-10-28 11:13:32 +0000  Running /usr/bin/ditto '-V' '/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/BCSymbolMaps/B105C5AC-9495-3B52-AF7B-FEF69AB99A6E.bcsymbolmap' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/BCSymbolMaps/B105C5AC-9495-3B52-AF7B-FEF69AB99A6E.bcsymbolmap'
+2019-10-28 11:13:32 +0000  >>> Copying /Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/BCSymbolMaps/B105C5AC-9495-3B52-AF7B-FEF69AB99A6E.bcsymbolmap 
+2019-10-28 11:13:32 +0000  copying file ./B105C5AC-9495-3B52-AF7B-FEF69AB99A6E.bcsymbolmap ... 
+2019-10-28 11:13:32 +0000  172233 bytes for ./B105C5AC-9495-3B52-AF7B-FEF69AB99A6E.bcsymbolmap
+2019-10-28 11:13:32 +0000  /usr/bin/ditto exited with 0
+2019-10-28 11:13:32 +0000  Processing step: IDEDistributionSymbolsStep
+2019-10-28 11:13:32 +0000  Excluding symbols for Eureka.framework
+2019-10-28 11:13:32 +0000  Excluding symbols for SnapKit.framework
+2019-10-28 11:13:32 +0000  Excluding symbols for Toast_Swift.framework
+2019-10-28 11:13:32 +0000  Excluding symbols for libswiftCore.dylib
+2019-10-28 11:13:32 +0000  Excluding symbols for libswiftCoreFoundation.dylib
+2019-10-28 11:13:32 +0000  Excluding symbols for libswiftCoreGraphics.dylib
+2019-10-28 11:13:32 +0000  Excluding symbols for libswiftCoreImage.dylib
+2019-10-28 11:13:33 +0000  Excluding symbols for libswiftCoreLocation.dylib
+2019-10-28 11:13:33 +0000  Excluding symbols for libswiftDarwin.dylib
+2019-10-28 11:13:33 +0000  Excluding symbols for libswiftDispatch.dylib
+2019-10-28 11:13:33 +0000  Excluding symbols for libswiftFoundation.dylib
+2019-10-28 11:13:33 +0000  Excluding symbols for libswiftMapKit.dylib
+2019-10-28 11:13:33 +0000  Excluding symbols for libswiftMetal.dylib
+2019-10-28 11:13:33 +0000  Excluding symbols for libswiftObjectiveC.dylib
+2019-10-28 11:13:33 +0000  Excluding symbols for libswiftQuartzCore.dylib
+2019-10-28 11:13:33 +0000  Excluding symbols for libswiftUIKit.dylib
+2019-10-28 11:13:33 +0000  Excluding symbols for libswiftos.dylib
+2019-10-28 11:13:33 +0000  Excluding symbols for mobile 911.app
+2019-10-28 11:13:33 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2019-10-28 11:13:33 +0000  Running /usr/bin/ditto '-V' '/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/SwiftSupport' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/SwiftSupport'
+2019-10-28 11:13:33 +0000  >>> Copying /Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/SwiftSupport 
+2019-10-28 11:13:33 +0000  copying file ./iphoneos/libswiftMapKit.dylib ... 
+2019-10-28 11:13:33 +0000  555442 bytes for ./iphoneos/libswiftMapKit.dylib
+copying file ./iphoneos/libswiftCoreImage.dylib ... 
+2019-10-28 11:13:33 +0000  474638 bytes for ./iphoneos/libswiftCoreImage.dylib
+copying file ./iphoneos/libswiftObjectiveC.dylib ... 
+2019-10-28 11:13:33 +0000  795664 bytes for ./iphoneos/libswiftObjectiveC.dylib
+2019-10-28 11:13:33 +0000  copying file ./iphoneos/libswiftCore.dylib ... 
+2019-10-28 11:13:33 +0000  140418790 bytes for ./iphoneos/libswiftCore.dylib
+copying file ./iphoneos/libswiftCoreGraphics.dylib ... 
+2019-10-28 11:13:33 +0000  2688450 bytes for ./iphoneos/libswiftCoreGraphics.dylib
+copying file ./iphoneos/libswiftUIKit.dylib ... 
+2019-10-28 11:13:33 +0000  2149504 bytes for ./iphoneos/libswiftUIKit.dylib
+2019-10-28 11:13:33 +0000  copying file ./iphoneos/libswiftMetal.dylib ... 
+2019-10-28 11:13:33 +0000  838789 bytes for ./iphoneos/libswiftMetal.dylib
+2019-10-28 11:13:33 +0000  copying file ./iphoneos/libswiftDispatch.dylib ... 
+2019-10-28 11:13:33 +0000  5456696 bytes for ./iphoneos/libswiftDispatch.dylib
+copying file ./iphoneos/libswiftos.dylib ... 
+2019-10-28 11:13:33 +0000  1079649 bytes for ./iphoneos/libswiftos.dylib
+copying file ./iphoneos/libswiftCoreFoundation.dylib ... 
+2019-10-28 11:13:33 +0000  445022 bytes for ./iphoneos/libswiftCoreFoundation.dylib
+copying file ./iphoneos/libswiftDarwin.dylib ... 
+2019-10-28 11:13:33 +0000  1369298 bytes for ./iphoneos/libswiftDarwin.dylib
+copying file ./iphoneos/libswiftQuartzCore.dylib ... 
+2019-10-28 11:13:33 +0000  570749 bytes for ./iphoneos/libswiftQuartzCore.dylib
+2019-10-28 11:13:33 +0000  copying file ./iphoneos/libswiftFoundation.dylib ... 
+2019-10-28 11:13:33 +0000  62245532 bytes for ./iphoneos/libswiftFoundation.dylib
+copying file ./iphoneos/libswiftCoreLocation.dylib ... 
+2019-10-28 11:13:33 +0000  911125 bytes for ./iphoneos/libswiftCoreLocation.dylib
+2019-10-28 11:13:33 +0000  /usr/bin/ditto exited with 0
+2019-10-28 11:13:33 +0000  Processing step: IDEDistributionAppThinningStep
+2019-10-28 11:13:33 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2019-10-28 11:13:33 +0000  Processing step: IDEDistributionArchThinningStep
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/Eureka.framework/Eureka' '-verify_arch' 'arm64e'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-10-28 11:13:33 +0000  Skipping architecture thinning for item "Eureka" because arch "arm64e" wasn't found
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/SnapKit.framework/SnapKit' '-verify_arch' 'arm64e'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-10-28 11:13:33 +0000  Skipping architecture thinning for item "SnapKit" because arch "arm64e" wasn't found
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/Toast_Swift.framework/Toast_Swift' '-verify_arch' 'arm64e'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-10-28 11:13:33 +0000  Skipping architecture thinning for item "Toast_Swift" because arch "arm64e" wasn't found
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCore.dylib' '-verify_arch' 'arm64e'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCore.dylib' '-remove' 'arm64e' '-output' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCore.dylib'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-10-28 11:13:33 +0000  Successfully thinned item "libswiftCore.dylib", arch "arm64e"
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCoreFoundation.dylib' '-verify_arch' 'arm64e'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCoreFoundation.dylib' '-remove' 'arm64e' '-output' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCoreFoundation.dylib'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-10-28 11:13:33 +0000  Successfully thinned item "libswiftCoreFoundation.dylib", arch "arm64e"
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCoreGraphics.dylib' '-verify_arch' 'arm64e'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCoreGraphics.dylib' '-remove' 'arm64e' '-output' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCoreGraphics.dylib'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-10-28 11:13:33 +0000  Successfully thinned item "libswiftCoreGraphics.dylib", arch "arm64e"
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCoreImage.dylib' '-verify_arch' 'arm64e'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCoreImage.dylib' '-remove' 'arm64e' '-output' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCoreImage.dylib'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-10-28 11:13:33 +0000  Successfully thinned item "libswiftCoreImage.dylib", arch "arm64e"
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCoreLocation.dylib' '-verify_arch' 'arm64e'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCoreLocation.dylib' '-remove' 'arm64e' '-output' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCoreLocation.dylib'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-10-28 11:13:33 +0000  Successfully thinned item "libswiftCoreLocation.dylib", arch "arm64e"
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftDarwin.dylib' '-verify_arch' 'arm64e'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftDarwin.dylib' '-remove' 'arm64e' '-output' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftDarwin.dylib'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-10-28 11:13:33 +0000  Successfully thinned item "libswiftDarwin.dylib", arch "arm64e"
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftDispatch.dylib' '-verify_arch' 'arm64e'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftDispatch.dylib' '-remove' 'arm64e' '-output' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftDispatch.dylib'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-10-28 11:13:33 +0000  Successfully thinned item "libswiftDispatch.dylib", arch "arm64e"
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftFoundation.dylib' '-verify_arch' 'arm64e'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftFoundation.dylib' '-remove' 'arm64e' '-output' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftFoundation.dylib'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-10-28 11:13:33 +0000  Successfully thinned item "libswiftFoundation.dylib", arch "arm64e"
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftMapKit.dylib' '-verify_arch' 'arm64e'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftMapKit.dylib' '-remove' 'arm64e' '-output' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftMapKit.dylib'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-10-28 11:13:33 +0000  Successfully thinned item "libswiftMapKit.dylib", arch "arm64e"
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftMetal.dylib' '-verify_arch' 'arm64e'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftMetal.dylib' '-remove' 'arm64e' '-output' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftMetal.dylib'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-10-28 11:13:33 +0000  Successfully thinned item "libswiftMetal.dylib", arch "arm64e"
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftObjectiveC.dylib' '-verify_arch' 'arm64e'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftObjectiveC.dylib' '-remove' 'arm64e' '-output' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftObjectiveC.dylib'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-10-28 11:13:33 +0000  Successfully thinned item "libswiftObjectiveC.dylib", arch "arm64e"
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftQuartzCore.dylib' '-verify_arch' 'arm64e'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftQuartzCore.dylib' '-remove' 'arm64e' '-output' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftQuartzCore.dylib'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-10-28 11:13:33 +0000  Successfully thinned item "libswiftQuartzCore.dylib", arch "arm64e"
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftUIKit.dylib' '-verify_arch' 'arm64e'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftUIKit.dylib' '-remove' 'arm64e' '-output' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftUIKit.dylib'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-10-28 11:13:33 +0000  Successfully thinned item "libswiftUIKit.dylib", arch "arm64e"
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftos.dylib' '-verify_arch' 'arm64e'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftos.dylib' '-remove' 'arm64e' '-output' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftos.dylib'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-10-28 11:13:33 +0000  Successfully thinned item "libswiftos.dylib", arch "arm64e"
+2019-10-28 11:13:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/mobile 911' '-verify_arch' 'arm64e'
+2019-10-28 11:13:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-10-28 11:13:33 +0000  Skipping architecture thinning for item "mobile 911" because arch "arm64e" wasn't found
+2019-10-28 11:13:33 +0000  Processing step: IDEDistributionODRStep
+2019-10-28 11:13:33 +0000  Processing step: IDEDistributionStripXattrsStep
+2019-10-28 11:13:33 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc13b871280 'org.cocoapods.Eureka' '<DVTFilePath:0x7fc13cb47e30:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/Eureka.framework'>'>
+2019-10-28 11:13:33 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc13b9c1390 'org.cocoapods.SnapKit' '<DVTFilePath:0x7fc13ca4ef30:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/SnapKit.framework'>'>
+2019-10-28 11:13:33 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc1357d33c0 'org.cocoapods.Toast-Swift' '<DVTFilePath:0x7fc13cc694b0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/Toast_Swift.framework'>'>
+2019-10-28 11:13:33 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc13bf11840 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fc13caa7fe0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftCore.dylib'>'>
+2019-10-28 11:13:33 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc131e8a7a0 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fc13bc63400:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftCoreFoundation.dylib'>'>
+2019-10-28 11:13:33 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc13da18b50 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fc1320cc3f0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftCoreGraphics.dylib'>'>
+2019-10-28 11:13:33 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc1351bcb70 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7fc13ca60990:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftCoreImage.dylib'>'>
+2019-10-28 11:13:33 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc13daa47c0 'com.apple.dt.runtime.swiftCoreLocation' '<DVTFilePath:0x7fc13cc68720:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftCoreLocation.dylib'>'>
+2019-10-28 11:13:33 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc1392de7f0 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fc13ccb50b0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftDarwin.dylib'>'>
+2019-10-28 11:13:33 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc13ccc6f20 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fc13900aab0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftDispatch.dylib'>'>
+2019-10-28 11:13:33 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc13bc76a20 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fc13c5c97e0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftFoundation.dylib'>'>
+2019-10-28 11:13:33 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc13c11fe00 'com.apple.dt.runtime.swiftMapKit' '<DVTFilePath:0x7fc1343be6d0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftMapKit.dylib'>'>
+2019-10-28 11:13:33 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc13cadc740 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7fc13bc38580:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftMetal.dylib'>'>
+2019-10-28 11:13:33 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc13cc8f940 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fc13c4e9e30:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftObjectiveC.dylib'>'>
+2019-10-28 11:13:33 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc13caf50f0 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7fc13bea9430:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftQuartzCore.dylib'>'>
+2019-10-28 11:13:33 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc13cbe3440 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7fc1351ed460:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftUIKit.dylib'>'>
+2019-10-28 11:13:33 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc13cc9ceb0 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7fc13bc42830:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftos.dylib'>'>
+2019-10-28 11:13:33 +0000  Running /usr/bin/xattr '-crs' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app'
+2019-10-28 11:13:33 +0000  /usr/bin/xattr exited with 0
+2019-10-28 11:13:33 +0000  Processing step: IDEDistributionCodesignStep
+2019-10-28 11:13:33 +0000  Entitlements for <IDEDistributionItem: 0x7fc13b871280 'org.cocoapods.Eureka' '<DVTFilePath:0x7fc13cb47e30:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/Eureka.framework'>'>: {
+}
+2019-10-28 11:13:33 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc13b871280 'org.cocoapods.Eureka' '<DVTFilePath:0x7fc13cb47e30:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/Eureka.framework'>'> to: /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~lr3x9J
+2019-10-28 11:13:33 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '86C3AEC0846A2428B5D43803926B11982A1E0E5F' '--entitlements' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~lr3x9J' '--preserve-metadata=identifier,flags,runtime' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/Eureka.framework'
+2019-10-28 11:13:34 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/Eureka.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.Eureka]
+2019-10-28 11:13:34 +0000  /usr/bin/codesign exited with 0
+2019-10-28 11:13:34 +0000  Entitlements for <IDEDistributionItem: 0x7fc13b9c1390 'org.cocoapods.SnapKit' '<DVTFilePath:0x7fc13ca4ef30:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/SnapKit.framework'>'>: {
+}
+2019-10-28 11:13:34 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc13b9c1390 'org.cocoapods.SnapKit' '<DVTFilePath:0x7fc13ca4ef30:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/SnapKit.framework'>'> to: /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~jomCRN
+2019-10-28 11:13:34 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '86C3AEC0846A2428B5D43803926B11982A1E0E5F' '--entitlements' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~jomCRN' '--preserve-metadata=identifier,flags,runtime' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/SnapKit.framework'
+2019-10-28 11:13:34 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/SnapKit.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.SnapKit]
+2019-10-28 11:13:34 +0000  /usr/bin/codesign exited with 0
+2019-10-28 11:13:34 +0000  Entitlements for <IDEDistributionItem: 0x7fc1357d33c0 'org.cocoapods.Toast-Swift' '<DVTFilePath:0x7fc13cc694b0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/Toast_Swift.framework'>'>: {
+}
+2019-10-28 11:13:34 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc1357d33c0 'org.cocoapods.Toast-Swift' '<DVTFilePath:0x7fc13cc694b0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/Toast_Swift.framework'>'> to: /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~gDm9Kb
+2019-10-28 11:13:34 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '86C3AEC0846A2428B5D43803926B11982A1E0E5F' '--entitlements' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~gDm9Kb' '--preserve-metadata=identifier,flags,runtime' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/Toast_Swift.framework'
+2019-10-28 11:13:34 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/Toast_Swift.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.Toast-Swift]
+2019-10-28 11:13:34 +0000  /usr/bin/codesign exited with 0
+2019-10-28 11:13:34 +0000  Entitlements for <IDEDistributionItem: 0x7fc13bf11840 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fc13caa7fe0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftCore.dylib'>'>: {
+}
+2019-10-28 11:13:34 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc13bf11840 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fc13caa7fe0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftCore.dylib'>'> to: /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~zGAck6
+2019-10-28 11:13:34 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '86C3AEC0846A2428B5D43803926B11982A1E0E5F' '--entitlements' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~zGAck6' '--preserve-metadata=identifier,flags,runtime' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCore.dylib'
+2019-10-28 11:13:34 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCore.dylib: replacing existing signature
+2019-10-28 11:13:34 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCore]
+2019-10-28 11:13:34 +0000  /usr/bin/codesign exited with 0
+2019-10-28 11:13:34 +0000  Entitlements for <IDEDistributionItem: 0x7fc131e8a7a0 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fc13bc63400:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftCoreFoundation.dylib'>'>: {
+}
+2019-10-28 11:13:34 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc131e8a7a0 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fc13bc63400:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftCoreFoundation.dylib'>'> to: /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~c9ZAbq
+2019-10-28 11:13:34 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '86C3AEC0846A2428B5D43803926B11982A1E0E5F' '--entitlements' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~c9ZAbq' '--preserve-metadata=identifier,flags,runtime' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCoreFoundation.dylib'
+2019-10-28 11:13:34 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCoreFoundation.dylib: replacing existing signature
+2019-10-28 11:13:35 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCoreFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreFoundation]
+2019-10-28 11:13:35 +0000  /usr/bin/codesign exited with 0
+2019-10-28 11:13:35 +0000  Entitlements for <IDEDistributionItem: 0x7fc13da18b50 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fc1320cc3f0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftCoreGraphics.dylib'>'>: {
+}
+2019-10-28 11:13:35 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc13da18b50 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fc1320cc3f0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftCoreGraphics.dylib'>'> to: /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~Y4mBv7
+2019-10-28 11:13:35 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '86C3AEC0846A2428B5D43803926B11982A1E0E5F' '--entitlements' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~Y4mBv7' '--preserve-metadata=identifier,flags,runtime' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCoreGraphics.dylib'
+2019-10-28 11:13:35 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCoreGraphics.dylib: replacing existing signature
+2019-10-28 11:13:35 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCoreGraphics.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreGraphics]
+2019-10-28 11:13:35 +0000  /usr/bin/codesign exited with 0
+2019-10-28 11:13:35 +0000  Entitlements for <IDEDistributionItem: 0x7fc1351bcb70 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7fc13ca60990:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftCoreImage.dylib'>'>: {
+}
+2019-10-28 11:13:35 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc1351bcb70 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7fc13ca60990:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftCoreImage.dylib'>'> to: /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~4l6xWz
+2019-10-28 11:13:35 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '86C3AEC0846A2428B5D43803926B11982A1E0E5F' '--entitlements' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~4l6xWz' '--preserve-metadata=identifier,flags,runtime' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCoreImage.dylib'
+2019-10-28 11:13:35 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCoreImage.dylib: replacing existing signature
+2019-10-28 11:13:35 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCoreImage.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreImage]
+2019-10-28 11:13:35 +0000  /usr/bin/codesign exited with 0
+2019-10-28 11:13:35 +0000  Entitlements for <IDEDistributionItem: 0x7fc13daa47c0 'com.apple.dt.runtime.swiftCoreLocation' '<DVTFilePath:0x7fc13cc68720:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftCoreLocation.dylib'>'>: {
+}
+2019-10-28 11:13:35 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc13daa47c0 'com.apple.dt.runtime.swiftCoreLocation' '<DVTFilePath:0x7fc13cc68720:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftCoreLocation.dylib'>'> to: /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~vFR1QO
+2019-10-28 11:13:35 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '86C3AEC0846A2428B5D43803926B11982A1E0E5F' '--entitlements' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~vFR1QO' '--preserve-metadata=identifier,flags,runtime' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCoreLocation.dylib'
+2019-10-28 11:13:35 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCoreLocation.dylib: replacing existing signature
+2019-10-28 11:13:35 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftCoreLocation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreLocation]
+2019-10-28 11:13:35 +0000  /usr/bin/codesign exited with 0
+2019-10-28 11:13:35 +0000  Entitlements for <IDEDistributionItem: 0x7fc1392de7f0 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fc13ccb50b0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftDarwin.dylib'>'>: {
+}
+2019-10-28 11:13:35 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc1392de7f0 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fc13ccb50b0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftDarwin.dylib'>'> to: /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~Jw9Yrb
+2019-10-28 11:13:35 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '86C3AEC0846A2428B5D43803926B11982A1E0E5F' '--entitlements' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~Jw9Yrb' '--preserve-metadata=identifier,flags,runtime' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftDarwin.dylib'
+2019-10-28 11:13:35 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftDarwin.dylib: replacing existing signature
+2019-10-28 11:13:35 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftDarwin.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDarwin]
+2019-10-28 11:13:35 +0000  /usr/bin/codesign exited with 0
+2019-10-28 11:13:35 +0000  Entitlements for <IDEDistributionItem: 0x7fc13ccc6f20 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fc13900aab0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftDispatch.dylib'>'>: {
+}
+2019-10-28 11:13:35 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc13ccc6f20 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fc13900aab0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftDispatch.dylib'>'> to: /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~meFBb3
+2019-10-28 11:13:35 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '86C3AEC0846A2428B5D43803926B11982A1E0E5F' '--entitlements' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~meFBb3' '--preserve-metadata=identifier,flags,runtime' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftDispatch.dylib'
+2019-10-28 11:13:35 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftDispatch.dylib: replacing existing signature
+2019-10-28 11:13:35 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftDispatch.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDispatch]
+2019-10-28 11:13:35 +0000  /usr/bin/codesign exited with 0
+2019-10-28 11:13:35 +0000  Entitlements for <IDEDistributionItem: 0x7fc13bc76a20 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fc13c5c97e0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftFoundation.dylib'>'>: {
+}
+2019-10-28 11:13:35 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc13bc76a20 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fc13c5c97e0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftFoundation.dylib'>'> to: /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~VKD4yK
+2019-10-28 11:13:35 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '86C3AEC0846A2428B5D43803926B11982A1E0E5F' '--entitlements' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~VKD4yK' '--preserve-metadata=identifier,flags,runtime' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftFoundation.dylib'
+2019-10-28 11:13:35 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftFoundation.dylib: replacing existing signature
+2019-10-28 11:13:35 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftFoundation]
+2019-10-28 11:13:35 +0000  /usr/bin/codesign exited with 0
+2019-10-28 11:13:35 +0000  Entitlements for <IDEDistributionItem: 0x7fc13c11fe00 'com.apple.dt.runtime.swiftMapKit' '<DVTFilePath:0x7fc1343be6d0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftMapKit.dylib'>'>: {
+}
+2019-10-28 11:13:35 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc13c11fe00 'com.apple.dt.runtime.swiftMapKit' '<DVTFilePath:0x7fc1343be6d0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftMapKit.dylib'>'> to: /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~ytCSFR
+2019-10-28 11:13:35 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '86C3AEC0846A2428B5D43803926B11982A1E0E5F' '--entitlements' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~ytCSFR' '--preserve-metadata=identifier,flags,runtime' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftMapKit.dylib'
+2019-10-28 11:13:35 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftMapKit.dylib: replacing existing signature
+2019-10-28 11:13:36 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftMapKit.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftMapKit]
+2019-10-28 11:13:36 +0000  /usr/bin/codesign exited with 0
+2019-10-28 11:13:36 +0000  Entitlements for <IDEDistributionItem: 0x7fc13cadc740 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7fc13bc38580:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftMetal.dylib'>'>: {
+}
+2019-10-28 11:13:36 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc13cadc740 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7fc13bc38580:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftMetal.dylib'>'> to: /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~LaQw2P
+2019-10-28 11:13:36 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '86C3AEC0846A2428B5D43803926B11982A1E0E5F' '--entitlements' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~LaQw2P' '--preserve-metadata=identifier,flags,runtime' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftMetal.dylib'
+2019-10-28 11:13:36 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftMetal.dylib: replacing existing signature
+2019-10-28 11:13:36 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftMetal.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftMetal]
+2019-10-28 11:13:36 +0000  /usr/bin/codesign exited with 0
+2019-10-28 11:13:36 +0000  Entitlements for <IDEDistributionItem: 0x7fc13cc8f940 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fc13c4e9e30:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftObjectiveC.dylib'>'>: {
+}
+2019-10-28 11:13:36 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc13cc8f940 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fc13c4e9e30:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftObjectiveC.dylib'>'> to: /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~QjCzPt
+2019-10-28 11:13:36 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '86C3AEC0846A2428B5D43803926B11982A1E0E5F' '--entitlements' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~QjCzPt' '--preserve-metadata=identifier,flags,runtime' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftObjectiveC.dylib'
+2019-10-28 11:13:36 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftObjectiveC.dylib: replacing existing signature
+2019-10-28 11:13:36 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftObjectiveC.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftObjectiveC]
+2019-10-28 11:13:36 +0000  /usr/bin/codesign exited with 0
+2019-10-28 11:13:36 +0000  Entitlements for <IDEDistributionItem: 0x7fc13caf50f0 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7fc13bea9430:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftQuartzCore.dylib'>'>: {
+}
+2019-10-28 11:13:36 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc13caf50f0 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7fc13bea9430:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftQuartzCore.dylib'>'> to: /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~VMZqd7
+2019-10-28 11:13:36 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '86C3AEC0846A2428B5D43803926B11982A1E0E5F' '--entitlements' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~VMZqd7' '--preserve-metadata=identifier,flags,runtime' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftQuartzCore.dylib'
+2019-10-28 11:13:36 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftQuartzCore.dylib: replacing existing signature
+2019-10-28 11:13:36 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftQuartzCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftQuartzCore]
+2019-10-28 11:13:36 +0000  /usr/bin/codesign exited with 0
+2019-10-28 11:13:36 +0000  Entitlements for <IDEDistributionItem: 0x7fc13cbe3440 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7fc1351ed460:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftUIKit.dylib'>'>: {
+}
+2019-10-28 11:13:36 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc13cbe3440 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7fc1351ed460:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftUIKit.dylib'>'> to: /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~raRopI
+2019-10-28 11:13:36 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '86C3AEC0846A2428B5D43803926B11982A1E0E5F' '--entitlements' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~raRopI' '--preserve-metadata=identifier,flags,runtime' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftUIKit.dylib'
+2019-10-28 11:13:36 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftUIKit.dylib: replacing existing signature
+2019-10-28 11:13:36 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftUIKit.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftUIKit]
+2019-10-28 11:13:36 +0000  /usr/bin/codesign exited with 0
+2019-10-28 11:13:36 +0000  Entitlements for <IDEDistributionItem: 0x7fc13cc9ceb0 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7fc13bc42830:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftos.dylib'>'>: {
+}
+2019-10-28 11:13:36 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc13cc9ceb0 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7fc13bc42830:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app/Frameworks/libswiftos.dylib'>'> to: /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~mBmA2y
+2019-10-28 11:13:36 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '86C3AEC0846A2428B5D43803926B11982A1E0E5F' '--entitlements' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~mBmA2y' '--preserve-metadata=identifier,flags,runtime' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftos.dylib'
+2019-10-28 11:13:36 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftos.dylib: replacing existing signature
+2019-10-28 11:13:36 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app/Frameworks/libswiftos.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftos]
+2019-10-28 11:13:36 +0000  /usr/bin/codesign exited with 0
+2019-10-28 11:13:36 +0000  Entitlements for <IDEDistributionItem: 0x7fc134630490 'ar.com.soflex.mobile-911' '<DVTFilePath:0x7fc13c3afce0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app'>'>: {
+    "application-identifier" = "QARNUHFYLX.ar.com.soflex.mobile-911";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = QARNUHFYLX;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "QARNUHFYLX.ar.com.soflex.mobile-911"
+    );
+}
+2019-10-28 11:13:36 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc134630490 'ar.com.soflex.mobile-911' '<DVTFilePath:0x7fc13c3afce0:'/Users/ezequiel/Library/Developer/Xcode/Archives/2019-07-11/mobile 911 11-07-2019, 12.50.xcarchive/Products/Applications/mobile 911.app'>'> to: /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~6qreA9
+2019-10-28 11:13:36 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '86C3AEC0846A2428B5D43803926B11982A1E0E5F' '--entitlements' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/entitlements~~~6qreA9' '--preserve-metadata=identifier,flags,runtime' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app'
+2019-10-28 11:13:37 +0000  /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root/Payload/mobile 911.app: signed app bundle with Mach-O thin (arm64) [ar.com.soflex.mobile-911]
+2019-10-28 11:13:37 +0000  /usr/bin/codesign exited with 0
+2019-10-28 11:13:37 +0000  Processing step: IDEDistributionZipODRItemStep
+2019-10-28 11:13:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-10-28 11:13:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-10-28 11:13:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-10-28 11:13:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-10-28 11:13:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-10-28 11:13:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-10-28 11:13:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-10-28 11:13:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-10-28 11:13:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-10-28 11:13:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-10-28 11:13:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-10-28 11:13:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-10-28 11:13:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-10-28 11:13:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-10-28 11:13:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-10-28 11:13:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-10-28 11:13:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-10-28 11:13:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-10-28 11:13:37 +0000  Processing step: IDEDistributionCreateIPAStep
+2019-10-28 11:13:37 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root' '/var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Packages/mobile 911.ipa'
+2019-10-28 11:13:37 +0000  >>> Copying /var/folders/49/x980jxds1475p7jyl_qsg7wm0000gn/T/XcodeDistPipeline.~~~a9MTXV/Root 
+2019-10-28 11:13:37 +0000  copying file ./BCSymbolMaps/003A19E6-5F35-398B-8BE0-CC39A07FECD3.bcsymbolmap ... 
+2019-10-28 11:13:37 +0000  575220 bytes for ./BCSymbolMaps/003A19E6-5F35-398B-8BE0-CC39A07FECD3.bcsymbolmap
+2019-10-28 11:13:37 +0000  copying file ./BCSymbolMaps/B105C5AC-9495-3B52-AF7B-FEF69AB99A6E.bcsymbolmap ... 
+2019-10-28 11:13:37 +0000  172233 bytes for ./BCSymbolMaps/B105C5AC-9495-3B52-AF7B-FEF69AB99A6E.bcsymbolmap
+2019-10-28 11:13:37 +0000  copying file ./BCSymbolMaps/D2FC7837-D021-39A7-B0FE-7BAC5FD7D46B.bcsymbolmap ... 
+2019-10-28 11:13:37 +0000  77043 bytes for ./BCSymbolMaps/D2FC7837-D021-39A7-B0FE-7BAC5FD7D46B.bcsymbolmap
+copying file ./BCSymbolMaps/5D3D8B37-D275-31C3-969E-2C42FBF69FB1.bcsymbolmap ... 
+2019-10-28 11:13:37 +0000  36172 bytes for ./BCSymbolMaps/5D3D8B37-D275-31C3-969E-2C42FBF69FB1.bcsymbolmap
+2019-10-28 11:13:37 +0000  copying file ./Payload/mobile 911.app/_CodeSignature/CodeResources ... 
+2019-10-28 11:13:37 +0000  16693 bytes for ./Payload/mobile 911.app/_CodeSignature/CodeResources
+2019-10-28 11:13:37 +0000  copying file ./Payload/mobile 911.app/es-419.lproj/LaunchScreen.strings ... 
+1 bytes for ./Payload/mobile 911.app/es-419.lproj/LaunchScreen.strings
+copying file ./Payload/mobile 911.app/es-419.lproj/Main.strings ... 
+2019-10-28 11:13:37 +0000  1833 bytes for ./Payload/mobile 911.app/es-419.lproj/Main.strings
+copying file ./Payload/mobile 911.app/AppIcon60x60@2x.png ... 
+2019-10-28 11:13:37 +0000  5255 bytes for ./Payload/mobile 911.app/AppIcon60x60@2x.png
+2019-10-28 11:13:37 +0000  copying file ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/datos.nib ... 
+1030 bytes for ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/datos.nib
+2019-10-28 11:13:37 +0000  copying file ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/Rs7-lt-orJ-view-M8L-ff-6Z3.nib ... 
+2019-10-28 11:13:37 +0000  4067 bytes for ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/Rs7-lt-orJ-view-M8L-ff-6Z3.nib
+copying file ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/KGR-zb-h9i-view-WfM-hV-Ius.nib ... 
+2019-10-28 11:13:37 +0000  7085 bytes for ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/KGR-zb-h9i-view-WfM-hV-Ius.nib
+copying file ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/ut7-Rn-7cq-view-KDT-xn-dM1.nib ... 
+2019-10-28 11:13:37 +0000  3083 bytes for ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/ut7-Rn-7cq-view-KDT-xn-dM1.nib
+copying file ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/QhX-KN-b6V-view-pKq-8h-HT1.nib ... 
+2019-10-28 11:13:37 +0000  4597 bytes for ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/QhX-KN-b6V-view-pKq-8h-HT1.nib
+copying file ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/DKQ-Kl-Env-view-2g8-EW-I4X.nib ... 
+2019-10-28 11:13:37 +0000  25689 bytes for ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/DKQ-Kl-Env-view-2g8-EW-I4X.nib
+copying file ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/UIViewController-Rs7-lt-orJ.nib ... 
+2019-10-28 11:13:37 +0000  1697 bytes for ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/UIViewController-Rs7-lt-orJ.nib
+copying file ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/inicio.nib ... 
+1289 bytes for ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/inicio.nib
+copying file ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/UIViewController-QhX-KN-b6V.nib ... 
+2019-10-28 11:13:37 +0000  1775 bytes for ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/UIViewController-QhX-KN-b6V.nib
+copying file ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/mapa.nib ... 
+2019-10-28 11:13:37 +0000  2016 bytes for ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/mapa.nib
+copying file ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/about.nib ... 
+2019-10-28 11:13:37 +0000  1525 bytes for ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/about.nib
+copying file ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2019-10-28 11:13:37 +0000  7084 bytes for ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/chq-qP-qUK-view-BXv-KR-1rK.nib ... 
+2019-10-28 11:13:37 +0000  5475 bytes for ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/chq-qP-qUK-view-BXv-KR-1rK.nib
+2019-10-28 11:13:37 +0000  copying file ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/UINavigationController-8gF-0l-BWN.nib ... 
+2019-10-28 11:13:37 +0000  2666 bytes for ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/UINavigationController-8gF-0l-BWN.nib
+copying file ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2019-10-28 11:13:37 +0000  555 bytes for ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/Info.plist
+copying file ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/UIViewController-DKQ-Kl-Env.nib ... 
+1079 bytes for ./Payload/mobile 911.app/Base.lproj/Main.storyboardc/UIViewController-DKQ-Kl-Env.nib
+2019-10-28 11:13:37 +0000  copying file ./Payload/mobile 911.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2019-10-28 11:13:37 +0000  1136 bytes for ./Payload/mobile 911.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2019-10-28 11:13:37 +0000  copying file ./Payload/mobile 911.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2019-10-28 11:13:37 +0000  832 bytes for ./Payload/mobile 911.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/mobile 911.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2019-10-28 11:13:37 +0000  258 bytes for ./Payload/mobile 911.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+2019-10-28 11:13:37 +0000  copying file ./Payload/mobile 911.app/mobile 911 ... 
+2019-10-28 11:13:37 +0000  1290784 bytes for ./Payload/mobile 911.app/mobile 911
+copying file ./Payload/mobile 911.app/Assets.car ... 
+2019-10-28 11:13:37 +0000  284072 bytes for ./Payload/mobile 911.app/Assets.car
+2019-10-28 11:13:37 +0000  copying file ./Payload/mobile 911.app/Frameworks/libswiftMapKit.dylib ... 
+2019-10-28 11:13:37 +0000  356288 bytes for ./Payload/mobile 911.app/Frameworks/libswiftMapKit.dylib
+copying file ./Payload/mobile 911.app/Frameworks/libswiftCoreImage.dylib ... 
+2019-10-28 11:13:37 +0000  352352 bytes for ./Payload/mobile 911.app/Frameworks/libswiftCoreImage.dylib
+copying file ./Payload/mobile 911.app/Frameworks/libswiftObjectiveC.dylib ... 
+2019-10-28 11:13:37 +0000  500080 bytes for ./Payload/mobile 911.app/Frameworks/libswiftObjectiveC.dylib
+copying file ./Payload/mobile 911.app/Frameworks/libswiftCore.dylib ... 
+2019-10-28 11:13:40 +0000  69852784 bytes for ./Payload/mobile 911.app/Frameworks/libswiftCore.dylib
+2019-10-28 11:13:40 +0000  copying file ./Payload/mobile 911.app/Frameworks/libswiftCoreGraphics.dylib ... 
+2019-10-28 11:13:40 +0000  1535328 bytes for ./Payload/mobile 911.app/Frameworks/libswiftCoreGraphics.dylib
+2019-10-28 11:13:40 +0000  copying file ./Payload/mobile 911.app/Frameworks/libswiftUIKit.dylib ... 
+2019-10-28 11:13:40 +0000  1200960 bytes for ./Payload/mobile 911.app/Frameworks/libswiftUIKit.dylib
+2019-10-28 11:13:40 +0000  copying file ./Payload/mobile 911.app/Frameworks/libswiftMetal.dylib ... 
+2019-10-28 11:13:40 +0000  544896 bytes for ./Payload/mobile 911.app/Frameworks/libswiftMetal.dylib
+copying file ./Payload/mobile 911.app/Frameworks/libswiftDispatch.dylib ... 
+2019-10-28 11:13:40 +0000  2993312 bytes for ./Payload/mobile 911.app/Frameworks/libswiftDispatch.dylib
+copying file ./Payload/mobile 911.app/Frameworks/libswiftos.dylib ... 
+2019-10-28 11:13:40 +0000  644944 bytes for ./Payload/mobile 911.app/Frameworks/libswiftos.dylib
+copying file ./Payload/mobile 911.app/Frameworks/libswiftCoreFoundation.dylib ... 
+2019-10-28 11:13:40 +0000  335904 bytes for ./Payload/mobile 911.app/Frameworks/libswiftCoreFoundation.dylib
+2019-10-28 11:13:40 +0000  copying file ./Payload/mobile 911.app/Frameworks/Eureka.framework/_CodeSignature/CodeResources ... 
+3768 bytes for ./Payload/mobile 911.app/Frameworks/Eureka.framework/_CodeSignature/CodeResources
+copying file ./Payload/mobile 911.app/Frameworks/Eureka.framework/Eureka ... 
+2019-10-28 11:13:40 +0000  6476512 bytes for ./Payload/mobile 911.app/Frameworks/Eureka.framework/Eureka
+2019-10-28 11:13:40 +0000  copying file ./Payload/mobile 911.app/Frameworks/Eureka.framework/Eureka.bundle/forward-chevron@3x.png ... 
+1710 bytes for ./Payload/mobile 911.app/Frameworks/Eureka.framework/Eureka.bundle/forward-chevron@3x.png
+copying file ./Payload/mobile 911.app/Frameworks/Eureka.framework/Eureka.bundle/forward-chevron@2x.png ... 
+1543 bytes for ./Payload/mobile 911.app/Frameworks/Eureka.framework/Eureka.bundle/forward-chevron@2x.png
+copying file ./Payload/mobile 911.app/Frameworks/Eureka.framework/Eureka.bundle/back-chevron@1x.png ... 
+1376 bytes for ./Payload/mobile 911.app/Frameworks/Eureka.framework/Eureka.bundle/back-chevron@1x.png
+copying file ./Payload/mobile 911.app/Frameworks/Eureka.framework/Eureka.bundle/forward-chevron@1x.png ... 
+1400 bytes for ./Payload/mobile 911.app/Frameworks/Eureka.framework/Eureka.bundle/forward-chevron@1x.png
+copying file ./Payload/mobile 911.app/Frameworks/Eureka.framework/Eureka.bundle/back-chevron@2x.png ... 
+1534 bytes for ./Payload/mobile 911.app/Frameworks/Eureka.framework/Eureka.bundle/back-chevron@2x.png
+copying file ./Payload/mobile 911.app/Frameworks/Eureka.framework/Eureka.bundle/back-chevron@3x.png ... 
+1699 bytes for ./Payload/mobile 911.app/Frameworks/Eureka.framework/Eureka.bundle/back-chevron@3x.png
+copying file ./Payload/mobile 911.app/Frameworks/Eureka.framework/Info.plist ... 
+736 bytes for ./Payload/mobile 911.app/Frameworks/Eureka.framework/Info.plist
+copying file ./Payload/mobile 911.app/Frameworks/libswiftDarwin.dylib ... 
+2019-10-28 11:13:40 +0000  813968 bytes for ./Payload/mobile 911.app/Frameworks/libswiftDarwin.dylib
+2019-10-28 11:13:40 +0000  copying file ./Payload/mobile 911.app/Frameworks/libswiftQuartzCore.dylib ... 
+2019-10-28 11:13:40 +0000  355584 bytes for ./Payload/mobile 911.app/Frameworks/libswiftQuartzCore.dylib
+2019-10-28 11:13:40 +0000  copying file ./Payload/mobile 911.app/Frameworks/Toast_Swift.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Payload/mobile 911.app/Frameworks/Toast_Swift.framework/_CodeSignature/CodeResources
+2019-10-28 11:13:40 +0000  copying file ./Payload/mobile 911.app/Frameworks/Toast_Swift.framework/Toast_Swift ... 
+2019-10-28 11:13:40 +0000  343328 bytes for ./Payload/mobile 911.app/Frameworks/Toast_Swift.framework/Toast_Swift
+2019-10-28 11:13:40 +0000  copying file ./Payload/mobile 911.app/Frameworks/Toast_Swift.framework/Info.plist ... 
+746 bytes for ./Payload/mobile 911.app/Frameworks/Toast_Swift.framework/Info.plist
+copying file ./Payload/mobile 911.app/Frameworks/SnapKit.framework/_CodeSignature/CodeResources ... 
+2019-10-28 11:13:40 +0000  1798 bytes for ./Payload/mobile 911.app/Frameworks/SnapKit.framework/_CodeSignature/CodeResources
+copying file ./Payload/mobile 911.app/Frameworks/SnapKit.framework/SnapKit ... 
+2019-10-28 11:13:40 +0000  917488 bytes for ./Payload/mobile 911.app/Frameworks/SnapKit.framework/SnapKit
+copying file ./Payload/mobile 911.app/Frameworks/SnapKit.framework/Info.plist ... 
+2019-10-28 11:13:40 +0000  738 bytes for ./Payload/mobile 911.app/Frameworks/SnapKit.framework/Info.plist
+copying file ./Payload/mobile 911.app/Frameworks/libswiftFoundation.dylib ... 
+2019-10-28 11:13:41 +0000  31957056 bytes for ./Payload/mobile 911.app/Frameworks/libswiftFoundation.dylib
+copying file ./Payload/mobile 911.app/Frameworks/libswiftCoreLocation.dylib ... 
+2019-10-28 11:13:41 +0000  550912 bytes for ./Payload/mobile 911.app/Frameworks/libswiftCoreLocation.dylib
+2019-10-28 11:13:41 +0000  copying file ./Payload/mobile 911.app/embedded.mobileprovision ... 
+9190 bytes for ./Payload/mobile 911.app/embedded.mobileprovision
+copying file ./Payload/mobile 911.app/Info.plist ... 
+2019-10-28 11:13:41 +0000  1798 bytes for ./Payload/mobile 911.app/Info.plist
+copying file ./Payload/mobile 911.app/PkgInfo ... 
+8 bytes for ./Payload/mobile 911.app/PkgInfo
+2019-10-28 11:13:41 +0000  copying file ./SwiftSupport/iphoneos/libswiftMapKit.dylib ... 
+2019-10-28 11:13:41 +0000  461296 bytes for ./SwiftSupport/iphoneos/libswiftMapKit.dylib
+copying file ./SwiftSupport/iphoneos/libswiftCoreImage.dylib ... 
+2019-10-28 11:13:41 +0000  408288 bytes for ./SwiftSupport/iphoneos/libswiftCoreImage.dylib
+copying file ./SwiftSupport/iphoneos/libswiftObjectiveC.dylib ... 
+2019-10-28 11:13:41 +0000  621408 bytes for ./SwiftSupport/iphoneos/libswiftObjectiveC.dylib
+copying file ./SwiftSupport/iphoneos/libswiftCore.dylib ... 
+2019-10-28 11:13:45 +0000  95439296 bytes for ./SwiftSupport/iphoneos/libswiftCore.dylib
+copying file ./SwiftSupport/iphoneos/libswiftCoreGraphics.dylib ... 
+2019-10-28 11:13:45 +0000  1999136 bytes for ./SwiftSupport/iphoneos/libswiftCoreGraphics.dylib
+copying file ./SwiftSupport/iphoneos/libswiftUIKit.dylib ... 
+2019-10-28 11:13:45 +0000  1550528 bytes for ./SwiftSupport/iphoneos/libswiftUIKit.dylib
+copying file ./SwiftSupport/iphoneos/libswiftMetal.dylib ... 
+2019-10-28 11:13:45 +0000  666144 bytes for ./SwiftSupport/iphoneos/libswiftMetal.dylib
+copying file ./SwiftSupport/iphoneos/libswiftDispatch.dylib ... 
+2019-10-28 11:13:46 +0000  4015008 bytes for ./SwiftSupport/iphoneos/libswiftDispatch.dylib
+copying file ./SwiftSupport/iphoneos/libswiftos.dylib ... 
+2019-10-28 11:13:46 +0000  798896 bytes for ./SwiftSupport/iphoneos/libswiftos.dylib
+copying file ./SwiftSupport/iphoneos/libswiftCoreFoundation.dylib ... 
+2019-10-28 11:13:46 +0000  392112 bytes for ./SwiftSupport/iphoneos/libswiftCoreFoundation.dylib
+copying file ./SwiftSupport/iphoneos/libswiftDarwin.dylib ... 
+2019-10-28 11:13:46 +0000  1049536 bytes for ./SwiftSupport/iphoneos/libswiftDarwin.dylib
+copying file ./SwiftSupport/iphoneos/libswiftQuartzCore.dylib ... 
+2019-10-28 11:13:46 +0000  477216 bytes for ./SwiftSupport/iphoneos/libswiftQuartzCore.dylib
+copying file ./SwiftSupport/iphoneos/libswiftFoundation.dylib ... 
+2019-10-28 11:13:47 +0000  43068800 bytes for ./SwiftSupport/iphoneos/libswiftFoundation.dylib
+copying file ./SwiftSupport/iphoneos/libswiftCoreLocation.dylib ... 
+2019-10-28 11:13:48 +0000  721088 bytes for ./SwiftSupport/iphoneos/libswiftCoreLocation.dylib
+2019-10-28 11:13:48 +0000  /usr/bin/ditto exited with 0
+2019-10-28 11:13:48 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2019-10-28 11:13:48 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2019-10-28 11:13:48 +0000  Processing step: IDEDistributionCreateManifestStep
+2019-10-28 11:13:48 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so

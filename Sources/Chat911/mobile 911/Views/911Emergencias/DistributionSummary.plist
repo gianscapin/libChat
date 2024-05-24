@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobile 911.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>bitcode</key>
+			<false/>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>86C3AEC0846A2428B5D43803926B11982A1E0E5F</string>
+				<key>dateExpires</key>
+				<string>27/10/2020</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>bitcode</key>
+					<false/>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>86C3AEC0846A2428B5D43803926B11982A1E0E5F</string>
+						<key>dateExpires</key>
+						<string>27/10/2020</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Eureka.framework</string>
+					<key>symbols</key>
+					<false/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>QARNUHFYLX</string>
+						<key>name</key>
+						<string>SOFLEX SA</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>bitcode</key>
+					<false/>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>86C3AEC0846A2428B5D43803926B11982A1E0E5F</string>
+						<key>dateExpires</key>
+						<string>27/10/2020</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SnapKit.framework</string>
+					<key>symbols</key>
+					<false/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>QARNUHFYLX</string>
+						<key>name</key>
+						<string>SOFLEX SA</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>bitcode</key>
+					<false/>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>86C3AEC0846A2428B5D43803926B11982A1E0E5F</string>
+						<key>dateExpires</key>
+						<string>27/10/2020</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Toast_Swift.framework</string>
+					<key>symbols</key>
+					<false/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>QARNUHFYLX</string>
+						<key>name</key>
+						<string>SOFLEX SA</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>QARNUHFYLX.ar.com.soflex.mobile-911</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>QARNUHFYLX</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>QARNUHFYLX.ar.com.soflex.mobile-911</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>mobile 911.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>f8c668f8-f56a-4a59-80e3-6324b2417b0a</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: *</string>
+			</dict>
+			<key>symbols</key>
+			<false/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>QARNUHFYLX</string>
+				<key>name</key>
+				<string>SOFLEX SA</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,19 @@
+//
+//  ConfigProd.xcconfig
+//  mobile 911
+//
+//  Created by Ezequiel Zarate on 16/10/2019.
+//  Copyright © 2019 Soflex. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+//BASEURL = https:/$()/hipoacusicos.seguridadciudad.gob.ar:10042/saechat/
+//POSITIONURL = http:/$()/sae911.seguridadciudad.gob.ar:12025/test/index.php
+//REGISTRATIONPASSWORD = m1jAy4mr!
+BASEURL = https:/$()/s12.soflex.com.ar/api-chat/
+POSITIONURL = https:/$()/s12.soflex.com.ar/api-chat/posiciones/index.php
+REGISTRATIONPASSWORD =
+IDCLIENTE = san_isidro
+
+#include "Pods/Target Support Files/Pods-mobile 911/Pods-mobile 911.debug.xcconfig"
